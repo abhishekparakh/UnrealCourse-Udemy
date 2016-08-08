@@ -1,0 +1,14 @@
+####################################
+# Unreal Generated files are ignored
+####################################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate/
+*/Saved
+BuildingEscape/Content/StarterContent/
+
+####################################
+# VC Generated files are ignored
+####################################
+*.VC.db
